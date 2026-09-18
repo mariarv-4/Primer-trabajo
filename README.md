@@ -113,6 +113,6 @@ Una línea.
 Otra línea.
 
 
-<!- Este texto es un comentario y no será renderizado -->
+<!-- Este texto es un comentario y no será renderizado -->
 
 
